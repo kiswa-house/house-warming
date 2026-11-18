@@ -5,11 +5,11 @@
 const EVENT_CONFIG = {
   /* July = month index 6 (months are 0-based in JavaScript Date) */
   year: 2026,
-  month: 6,
-  day: 23,
-  hour: 12,
+  month: 11,
+  day: 24,
+  hour: 17,
   minute: 0,
-  mapsUrl: 'https://maps.app.goo.gl/c5ddMde3hYB7X6Fq5?g_st=ic',
+  mapsUrl: 'https://maps.google.com/?q=11.476251,75.661774',
   endedMessage: 'The Housewarming Ceremony Has Begun',
 };
 
